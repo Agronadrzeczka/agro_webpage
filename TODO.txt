@@ -1,0 +1,4 @@
+1. remove extensions from links (.html)
+2. add favicon
+3. check <html lang="en">
+4. Check other meta Ktags
