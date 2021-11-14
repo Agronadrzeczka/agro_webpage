@@ -2,3 +2,4 @@
 2. add favicon
 3. check <html lang="en">
 4. Check other meta Ktags
+5. remove unused js
