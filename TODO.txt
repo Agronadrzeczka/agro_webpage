@@ -3,3 +3,4 @@
 3. check <html lang="en">
 4. Check other meta Ktags
 5. remove unused js
+6.remove unused pages
