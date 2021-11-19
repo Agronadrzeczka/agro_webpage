@@ -672,9 +672,9 @@ ul.agileinfo_footer_grid_list {
 }
 /*-- about-top --*/
 .about-w3layouts-pic{
-    background: url(../images/10.jpg) no-repeat 0px 0px;
-    background-size: cover;
-    min-height: 450px;
+    background: url(../images/10.webp) no-repeat 0px 0px;
+    background-size: contain;
+    min-height: 750px;
 }
 .about-right h5 {
     font-size: 1.5em;
