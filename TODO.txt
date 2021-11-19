@@ -1,6 +1,2 @@
-1. remove extensions from links (.html)??
-2. add favicon
-3. check <html lang="en">
-4. Check other meta Ktags
-5. remove unused js
-6.remove unused pages
+1. Check other meta tags
+2. remove unused js
