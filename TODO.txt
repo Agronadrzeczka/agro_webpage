@@ -1,0 +1,2 @@
+1. Check other meta tags
+2. remove unused js

@@ -21,6 +21,18 @@ body{
 body a:hover {
     text-decoration: none;
 }
+
+.photo-text{
+    background: rgba(0, 0, 0, 0.3);
+}
+
+.photo-text:hover{
+    background: rgba(0, 0, 0, 0.5);
+    -webkit-transition: background-color 8000ms linear;
+    -ms-transition: background-color 8000ms linear;
+    transition: background-color 8000ms linear;
+}
+
 /*-- header --*/
 input[type="submit"],.w3l_banner_info_left_grid_left h3 a,.w3agile_footer_copy p a,.reply a,.agile_cat_grid_tags ul li a:hover,.agile_cat_grid ul.categories li a,.w3l_admin a,.w3ls_single_left_grid_right ul li a,.wthree_features_services_grid h4 a,.agile_services_bottom_grid_left_grid a,.simplefilter li,.agileinfo_footer_grid ul li a,.w3l_banner_info_left_grid1,.agile_blog_grid h4 a{
 	transition: .5s ease-in;
@@ -221,7 +233,7 @@ ul.dropdown-menu {
 }
 .banner_text{
     text-align: center;
-    margin: 11em 0 0 0;
+    margin: 6em 0 0 0;
 }
 .banner_text h3{
     color: #FFFFFF;
@@ -660,12 +672,12 @@ ul.agileinfo_footer_grid_list {
 }
 /*-- about-top --*/
 .about-w3layouts-pic{
-    background: url(../images/10.jpg) no-repeat 0px 0px;
-    background-size: cover;
-    min-height: 450px;
+    background: url(../images/10.webp) no-repeat 0px 0px;
+    background-size: contain;
+    min-height: 750px;
 }
 .about-right h5 {
-    font-size: 1.5em;
+    font-size: 1.7em;
     color: #000;
     margin: 0;
 }
